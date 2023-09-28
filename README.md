@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-A project about shell.
+A project about shell basics in the ALX SE course.
