@@ -1,2 +1,2 @@
 #!/bin/bash
-hello logname
+echo "hello $(whoami)"
